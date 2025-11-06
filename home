@@ -10,5 +10,12 @@
 <body> 
 	<head> Nontaphat Chuayrod </head>
 	<p> แผนกวิชา เทคโนโลยีสารสนเทศ </p>
+<h2> ผลงานของฉัน </h2>
+<ul>
+	<li><a href="#"> โปรเจก 1 </a></li>
+	<li><a href="#"> โปรเจก 2 </a></li>
+</ul>
+
+<footer> ติดต่อ 0646491394  email: nontaphat2929@gmail.com </footer>
 </body>
 </html>
